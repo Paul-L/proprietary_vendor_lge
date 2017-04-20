@@ -80,7 +80,8 @@ PRODUCT_COPY_FILES += \
     vendor/lge/bullhead/proprietary/lib64/hw/nfc_nci.bullhead.so:system/lib64/hw/nfc_nci.bullhead.so \
     vendor/lge/bullhead/proprietary/lib64/lib_fpc_tac_shared.so:system/lib64/lib_fpc_tac_shared.so \
     vendor/lge/bullhead/proprietary/lib64/libloc_api_v02.so:system/lib64/libloc_api_v02.so \
-    vendor/lge/bullhead/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so
+    vendor/lge/bullhead/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
+    vendor/lge/bullhead/proprietary/lib64/libuiblur.so:system/lib64/libuiblur.so
 
 PRODUCT_PACKAGES += \
     HiddenMenu \
